@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 #Reads the image
-img = cv2.imread("3.jpg")
+img = cv2.imread("baby.jpg")
 #resize the window
 img = cv2. resize(img, (300, 300))
 #converts the image to grayscale
